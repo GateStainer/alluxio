@@ -23,7 +23,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Test;
 
-public final class SecurityUtilsTest {
+public class SecurityUtilsTest {
 
   @After
   public void after() {
